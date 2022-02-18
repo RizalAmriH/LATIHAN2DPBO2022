@@ -6,7 +6,7 @@
 ![Screenshot](Screenshoot/ss-c++.png)
 
 ## Screnshoot Java
-![Screenshot](Screenshoot/ss-Java.png)
+![Screenshot](Screenshoot/ss-JAVA.png)
 
 ## Screnshoot Python
 ![Screenshot](Screenshoot/ss-Python.png)
